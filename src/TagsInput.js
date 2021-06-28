@@ -2,9 +2,9 @@ import React from "react";
 import QuestionComp from "./QuestionComp";
 
 const initialValues = [
-  { label: "Test1", value: "Test1" },
-  { label: "Test2", value: "Test2" },
-  { label: "Test3", value: "Test3" }
+  { label: "C", value: "Test1" },
+  { label: "C++", value: "Test2" },
+  { label: "Java", value: "Test3" }
 ];
 
 const createOption = label => ({
