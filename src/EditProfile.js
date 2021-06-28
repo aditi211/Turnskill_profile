@@ -3,6 +3,7 @@ import { useState } from "react";
 import LeftBar from "./LeftBar";
 import PersonalDetails from "./PersonalDetails";
 import ProfilePic from "./ProfilePic";
+import TagsInput from "./TagsInput";
 
 function EditProfile() {
     let id;
